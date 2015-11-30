@@ -1,0 +1,21 @@
+// ===========================================================
+// Grid
+// ===========================================================
+//
+// Gridle is built only one time in the vendor. We setup here 
+// some "hooks" on gridle's classes.
+//
+
+// Setup the static container
+.container
+  max-width : 960px
+  margin : 0 auto
+
+  @include gridle_state(xs)
+    width: 95%
+
+// Setup the fluid container
+.container-fluid
+  width: 95%
+  margin: 0 auto
+

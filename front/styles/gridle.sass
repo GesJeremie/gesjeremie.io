@@ -1,0 +1,11 @@
+// Dependency
+@import 'vendor/gridle/gridle'
+
+// Setting up the grid
++gridle_setup((context: 12, gutter-width: 10px, direction: ltr, debug: true))
+
+// Mobile
++gridle_register_default_mobile_first_states()
+
+// Generate css classes (to use in the html)
++gridle_generate_classes()
