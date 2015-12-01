@@ -1,0 +1,19 @@
+@include component(section)
+  padding-top: 4em
+
+  @include part(title)
+    color: $color-shade-1
+    +font-montserrat
+    text-transform: capitalize
+    text-align: center
+    padding-bottom: 1.6em
+
+  @include part(content)
+    color: $color-shade-3
+    font-size: 18px
+    font-weight: 300
+
+    br
+      content: " "
+      height: 12px
+      display: block

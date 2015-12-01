@@ -1,5 +1,4 @@
 @include component(header)
-  height: 30em
   width: 100%
   background-image: url('/images/forest.jpg')
   background-size: cover
@@ -7,6 +6,7 @@
   background-position: center center
   color: white
   position: relative
+  padding-bottom: 5em
 
   @include part(overlay)
     &:after
@@ -34,7 +34,7 @@
     text-align: center
     color: white
     font-size: 2em
-    padding-bottom: 1.5em
+    padding-bottom: 2em
     +font-lato(100)
 
     strong

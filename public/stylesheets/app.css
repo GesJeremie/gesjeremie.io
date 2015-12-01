@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Montserrat:400,700");
-@import url("https://fonts.googleapis.com/css?family=Lato:400,400italic,300italic,300,700,700italic");
+@import url("https://fonts.googleapis.com/css?family=Lato:100,400,400italic,300italic,300,700,700italic");
 /* line 10, /Library/WebServer/Documents/workflow/gesjeremie.io/front/styles/utils/_grid.sass */
 .container {
   max-width: 960px;
@@ -143,14 +143,14 @@ textarea {
 
 /* line 32, /Library/WebServer/Documents/workflow/gesjeremie.io/front/node_modules/csstyle/csstyle.scss */
 .header {
-  height: 30em;
   width: 100%;
   background-image: url("/images/forest.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
   color: white;
-  position: relative; }
+  position: relative;
+  padding-bottom: 5em; }
   /* line 12, /Library/WebServer/Documents/workflow/gesjeremie.io/front/styles/app/components/_header.sass */
   .header__overlay:after {
     background: #364347;
@@ -184,7 +184,7 @@ textarea {
     text-align: center;
     color: white;
     font-size: 2em;
-    padding-bottom: 1.5em;
+    padding-bottom: 2em;
     font-family: 'Lato', sans-serif;
     font-weight: 100; }
     /* line 40, /Library/WebServer/Documents/workflow/gesjeremie.io/front/styles/app/components/_header.sass */
@@ -211,6 +211,41 @@ textarea {
     .header__button:active, .header__button:hover, .header__button:focus {
       color: #f3bc65;
       border-color: #f3bc65; }
+
+/* line 32, /Library/WebServer/Documents/workflow/gesjeremie.io/front/node_modules/csstyle/csstyle.scss */
+.section {
+  padding-top: 4em; }
+  /* line 76, /Library/WebServer/Documents/workflow/gesjeremie.io/front/node_modules/csstyle/csstyle.scss */
+  .section__title {
+    color: #364347;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    text-transform: capitalize;
+    text-align: center;
+    padding-bottom: 1.6em; }
+  /* line 76, /Library/WebServer/Documents/workflow/gesjeremie.io/front/node_modules/csstyle/csstyle.scss */
+  .section__content {
+    color: #93a4aa;
+    font-size: 18px;
+    font-weight: 300; }
+    /* line 16, /Library/WebServer/Documents/workflow/gesjeremie.io/front/styles/app/components/_section.sass */
+    .section__content br {
+      content: " ";
+      height: 12px;
+      display: block; }
+
+/* line 40, /Library/WebServer/Documents/workflow/gesjeremie.io/front/node_modules/csstyle/csstyle.scss */
+.picture.\--avatar {
+  width: 200px;
+  height: 200px;
+  -webkit-border-radius: 100px;
+  -khtml-border-radius: 100px;
+  -moz-border-radius: 100px;
+  -ms-border-radius: 100px;
+  -o-border-radius: 100px;
+  border-radius: 100px;
+  background-size: cover;
+  margin-top: 2.5em; }
 
 
 /*# sourceMappingURL=app.css.map*/
