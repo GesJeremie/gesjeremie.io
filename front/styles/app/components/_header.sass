@@ -1,0 +1,58 @@
+@include component(header)
+  height: 30em
+  width: 100%
+  background-image: url('/images/forest.jpg')
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center center
+  color: white
+  position: relative
+
+  @include part(overlay)
+    &:after
+      background: #364347
+      position: absolute
+      top: 0
+      bottom: 0
+      right: 0
+      left: 0
+      +opacity(0.4)
+      content: " "
+
+
+  @include part(title)
+    position: relative
+    text-align: center
+    color: white
+    font-size: 3em
+    +font-montserrat()
+    text-transform: capitalize
+    padding-top: 4.2em
+
+  @include part(punchline)
+    position: relative
+    text-align: center
+    color: white
+    font-size: 2em
+    padding-bottom: 1.5em
+    +font-lato(100)
+
+    strong
+      text-transform: capitalize
+      color: $color-yellow-reverse
+
+  @include part(button)
+    border: 2px solid white
+    background: transparent
+    color: white
+    text-transform: capitalize
+    padding: 18px 24px
+    font-size: 18px
+    font-weight: 400
+    position: relative
+    +border-radius(5px)
+
+    &:active, &:hover, &:focus
+      color: $color-yellow-reverse
+      border-color: $color-yellow-reverse
+
