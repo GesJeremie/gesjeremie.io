@@ -98,18 +98,11 @@
       <div class="section__content">
         <strong>Baby Sitting Bordeaux (Bordeaux, France)</strong><br/>
         Founder - Full Stack Developer / Marketing / Support<br/>
-        November 2015 - Present<br/>
         
-        Baby Sitting Bordeaux is that kind of project used as a sandbox to improve and re-use my skills. The main goal of the application is to create connections between families and baby sitters in the city of Bordeaux, France.<br/>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pretium commodo massa sed lobortis. Morbi nec risus nunc. Quisque molestie lectus vitae commodo interdum. Pellentesque sodales tincidunt neque, sit amet facilisis nisl aliquet id. Nam efficitur nisi ut eleifend placerat. Nulla at eleifend felis, nec pharetra dui. Donec dapibus lorem sed dapibus congue. Donec interdum odio eu dolor pharetra viverra. Nam porta dui nec porta egestas. Vivamus volutpat mauris a euismod pretium. Fusce ac lacus est. Proin eleifend nisl posuere accumsan volutpat. Sed mollis at mi eget faucibus. Cras a purus lacus. Donec laoreet laoreet massa sit amet vulputate.<br/>
 
-        I used Laravel 5.1 and Mysql for the backend and everything is well tested with PHPUnit. I created some PHPUnit assert which are connected with the API of mailtrap.io to test when the application sends mails (AssertEmailIsSent(), AssertEmailSubjectContains(), AssertEmailNameSenderEquals(), ...). <br/>
+        Morbi semper ultrices risus ut laoreet. Nam non erat urna. Aenean et neque non augue elementum dapibus. Integer ac purus nulla. Morbi ullamcorper molestie ante, ac facilisis dui auctor sit amet. Vestibulum a libero rutrum, vulputate dolor sed, efficitur est. Mauris vel luctus ante. Maecenas vestibulum felis nibh, faucibus congue risus lacinia vel. Fusce pretium sollicitudin sagittis. Fusce a ligula suscipit, ullamcorper ex id, egestas mi. Nulla facilisi. Curabitur vel arcu nulla. Ut in ligula felis. Morbi nec erat metus. Vivamus sed massa aliquam nibh aliquam placerat sed non lorem. Maecenas id venenatis erat.<br/>
 
-        The css part is coded with a sweet Sass structure, Csstyle.io to have a modular approach (It looks like BEM without the pain). 
-        For the javascript section, I used coffeescript coupled with Gothamjs.io (a side project). The whole front-end is compiled by brunch.io (similar to Grunt / Gulp) with an average time of 100ms.<br/>
-
-        The application is proudly hosted on DigitalOcean and can be deployed with zero-downtime thanks to deployer (similar to capistrano).<br/>
-
-        The whole project (Development / Marketing / Support) is organised with Trello and versionned on Bitbucket. <br/>
 
         <div class="+spacer"></div>
 
@@ -117,26 +110,44 @@
         Remote Employee - Front-End Developer<br/>
         Feb 2014 - Present<br/>
 
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pretium commodo massa sed lobortis. Morbi nec risus nunc. Quisque molestie lectus vitae commodo interdum. Pellentesque sodales tincidunt neque, sit amet facilisis nisl aliquet id. Nam efficitur nisi ut eleifend placerat. Nulla at eleifend felis, nec pharetra dui. Donec dapibus lorem sed dapibus congue. Donec interdum odio eu dolor pharetra viverra. Nam porta dui nec porta egestas. Vivamus volutpat mauris a euismod pretium. Fusce ac lacus est. Proin eleifend nisl posuere accumsan volutpat. Sed mollis at mi eget faucibus. Cras a purus lacus. Donec laoreet laoreet massa sit amet vulputate.
 
+        <div class="+spacer"></div>
 
-
+        <strong>La Petite Box SAS (Bordeaux, France)</strong><br/>
+        Co-Founder -  Front-end Developer<br/>
+        Sept 2014 - Present<br/>
         
-        <!-- 
-        La Petite Box SAS (Bordeaux, France)
-        Co-Founder -  Front-end Developer
-        Sept 2014 - Present
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pretium commodo massa sed lobortis. Morbi nec risus nunc. Quisque molestie lectus vitae commodo interdum. Pellentesque sodales tincidunt neque, sit amet facilisis nisl aliquet id. Nam efficitur nisi ut eleifend placerat. Nulla at eleifend felis, nec pharetra dui. Donec dapibus lorem sed dapibus congue. Donec interdum odio eu dolor pharetra viverra. Nam porta dui nec porta egestas. Vivamus volutpat mauris a euismod pretium. Fusce ac lacus est. Proin eleifend nisl posuere accumsan volutpat. Sed mollis at mi eget faucibus. Cras a purus lacus. Donec laoreet laoreet massa sit amet vulputate.
 
-        Agence Volt (Bordeaux, France)
-        Co-Founder - Full Stack Developer
-        Nov 2012 - Nov 2013
 
-        Alcool Arcachon (Bordeaux, France)
-        Co-Founder - Full Stack Developer / Delivery
-        May 2013 - Sept 2013
+
+        <div class="+spacer"></div>
+
+        Agence Volt (Bordeaux, France)<br/>
+        Co-Founder - Full Stack Developer<br/>
+        Nov 2012 - Nov 2013<br/>
         
-        Freelance Developer
-        2007 - Present
-        -->
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pretium commodo massa sed lobortis. Morbi nec risus nunc. Quisque molestie lectus vitae commodo interdum. Pellentesque sodales tincidunt neque, sit amet facilisis nisl aliquet id. Nam efficitur nisi ut eleifend placerat. Nulla at eleifend felis, nec pharetra dui. Donec dapibus lorem sed dapibus congue. Donec interdum odio eu dolor pharetra viverra. Nam porta dui nec porta egestas. Vivamus volutpat mauris a euismod pretium. Fusce ac lacus est. Proin eleifend nisl posuere accumsan volutpat. Sed mollis at mi eget faucibus. Cras a purus lacus. Donec laoreet laoreet massa sit amet vulputate.
+
+
+        <div class="+spacer"></div>
+
+        Alcool Arcachon (Bordeaux, France)<br/>
+        Co-Founder - Full Stack Developer / Delivery<br/>
+        May 2013 - Sept 2013<br/>
+        
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pretium commodo massa sed lobortis. Morbi nec risus nunc. Quisque molestie lectus vitae commodo interdum. Pellentesque sodales tincidunt neque, sit amet facilisis nisl aliquet id. Nam efficitur nisi ut eleifend placerat. Nulla at eleifend felis, nec pharetra dui. Donec dapibus lorem sed dapibus congue. Donec interdum odio eu dolor pharetra viverra. Nam porta dui nec porta egestas. Vivamus volutpat mauris a euismod pretium. Fusce ac lacus est. Proin eleifend nisl posuere accumsan volutpat. Sed mollis at mi eget faucibus. Cras a purus lacus. Donec laoreet laoreet massa sit amet vulputate.
+
+
+        <div class="+spacer"></div>
+
+        Freelance Developer<br/>
+        2007 - Present<br/>
+
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pretium commodo massa sed lobortis. Morbi nec risus nunc. Quisque molestie lectus vitae commodo interdum. Pellentesque sodales tincidunt neque, sit amet facilisis nisl aliquet id. Nam efficitur nisi ut eleifend placerat. Nulla at eleifend felis, nec pharetra dui. Donec dapibus lorem sed dapibus congue. Donec interdum odio eu dolor pharetra viverra. Nam porta dui nec porta egestas. Vivamus volutpat mauris a euismod pretium. Fusce ac lacus est. Proin eleifend nisl posuere accumsan volutpat. Sed mollis at mi eget faucibus. Cras a purus lacus. Donec laoreet laoreet massa sit amet vulputate.
+
+
       </div>
     </div>
 
