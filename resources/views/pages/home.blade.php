@@ -91,6 +91,32 @@
   {{-- Experiences --}}
   <div class="section">
     <h2 class="section__title">Experiences</h2>
+
+    Baby Sitting Bordeaux (Bordeaux, France)
+    Founder - Back-end / Front-end Developer / Marketing / Support
+    November 2015 - Present
+
+    Virtual Safety Inc & Gotham Partners LLC (Baton Rouge, Louisiana)
+    Front-End Developer
+    Feb 2014 - Present
+
+    La Petite Box SAS (Bordeaux, France)
+    Co-Founder -  Front-end Developer
+    Sept 2014 - Present
+
+    Agence Volt (Bordeaux, France)
+    Co-Founder - Back-end / Front-end Developer
+    Nov 2012 - Nov 2013
+
+    Alcool Arcachon (Bordeaux, France)
+    Co-Founder - Back-end / Front-end Developer / Delivery
+    May 2013 - Sept 2013
+    
+    Freelance Developer
+    2007 - Present 
+    
+
+
   </div>
 
   {{-- Sideprojects --}}
