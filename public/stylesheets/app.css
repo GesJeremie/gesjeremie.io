@@ -64,7 +64,7 @@ html {
 
 /* line 20, /Library/WebServer/Documents/workflow/gesjeremie.io/front/styles/app/_typography.sass */
 body {
-  color: #364347;
+  color: #93a4aa;
   font-family: 'Lato', sans-serif;
   font-weight: 400; }
 
@@ -217,6 +217,9 @@ textarea {
   padding-top: 4em;
   padding-bottom: 6em;
   border-bottom: 1px solid #E6E6E6; }
+  /* line 40, /Library/WebServer/Documents/workflow/gesjeremie.io/front/node_modules/csstyle/csstyle.scss */
+  .section.\--grey {
+    background-color: #FAF9FA; }
   /* line 76, /Library/WebServer/Documents/workflow/gesjeremie.io/front/node_modules/csstyle/csstyle.scss */
   .section__title {
     color: #364347;
@@ -227,10 +230,9 @@ textarea {
     padding-bottom: 1.6em; }
   /* line 76, /Library/WebServer/Documents/workflow/gesjeremie.io/front/node_modules/csstyle/csstyle.scss */
   .section__content {
-    color: #93a4aa;
     font-size: 18px;
     font-weight: 300; }
-    /* line 18, /Library/WebServer/Documents/workflow/gesjeremie.io/front/styles/app/components/_section.sass */
+    /* line 20, /Library/WebServer/Documents/workflow/gesjeremie.io/front/styles/app/components/_section.sass */
     .section__content br {
       content: " ";
       height: 12px;
@@ -270,6 +272,65 @@ textarea {
   .alert.\--with-icon i {
     color: #364347;
     padding-right: 1em; }
+
+/* line 32, /Library/WebServer/Documents/workflow/gesjeremie.io/front/node_modules/csstyle/csstyle.scss */
+.list {
+  display: block;
+  background-color: white;
+  padding: 20px;
+  list-style: none;
+  -webkit-border-radius: 5px;
+  -khtml-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-radius: 5px; }
+  /* line 8, /Library/WebServer/Documents/workflow/gesjeremie.io/front/styles/app/components/_list.sass */
+  .list li {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: 300; }
+  /* line 13, /Library/WebServer/Documents/workflow/gesjeremie.io/front/styles/app/components/_list.sass */
+  .list li:nth-child(2) {
+    padding-top: 20px; }
+  /* line 76, /Library/WebServer/Documents/workflow/gesjeremie.io/front/node_modules/csstyle/csstyle.scss */
+  .list__title {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: #364347;
+    font-size: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #E6E6E6; }
+
+/* line 32, /Library/WebServer/Documents/workflow/gesjeremie.io/front/node_modules/csstyle/csstyle.scss */
+.button {
+  padding: 18px 24px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 18px;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 300;
+  text-transform: capitalize;
+  -webkit-border-radius: 5px;
+  -khtml-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-radius: 5px;
+  border-bottom: 5px solid #27ae60;
+  box-shadow: inset 0 0 0 0 #2ecc71;
+  background-color: #2ecc71;
+  -webkit-transition: box-shadow ease 0.5s;
+  -moz-transition: box-shadow ease 0.5s;
+  -ms-transition: box-shadow ease 0.5s;
+  -o-transition: box-shadow ease 0.5s;
+  transition: box-shadow ease 0.5s; }
+  /* line 16, /Library/WebServer/Documents/workflow/gesjeremie.io/front/styles/app/components/_button.sass */
+  .button:active, .button:hover, .button:focus {
+    color: #fff;
+    text-decoration: none;
+    box-shadow: inset 0 -100px 0 0 #27ae60; }
 
 
 /*# sourceMappingURL=app.css.map*/

@@ -1,0 +1,22 @@
+@include component(list)
+  display: block
+  background-color: white
+  padding: 20px
+  list-style: none
+  +border-radius(5px)
+  
+  li
+    padding-top: 10px
+    padding-bottom: 10px
+    font-weight: 300
+
+  li:nth-child(2)
+    padding-top: 20px
+
+  @include part(title)
+    +font-montserrat
+    color: $color-shade-1
+    font-size: 20px
+    padding-bottom: 10px
+    border-bottom: 1px solid $color-grey
+

@@ -34,7 +34,7 @@
   </div>
 
   {{-- Skills --}}
-  <div class="section">
+  <div class="section --grey">
     <h2 class="section__title">Skills</h2>  
     <div class="container">
       <div class="row">
@@ -52,7 +52,7 @@
           <ul class="list">
             <li class="list__title">Back</li>
             <li>PHP</li>
-            <li>Frameworks: Laravel 4.2 and 5.1 / Codeigniter / PhalconPHP</li>
+            <li>Laravel 4.2 and 5.1 / Codeigniter / PhalconPHP</li>
             <li>Vagrant / Homestead</li>
             <li>Composer</li>
             <li>TDD (phpunit)</li>
@@ -76,10 +76,14 @@
       </div>
       
       <div class="clear"></div>
+      <div class="+spacer"></div>
 
-      I listed here the technologies I use in my day-to-day life. In fact I already worked with the Ruby / Rails and Nodejs / Sails stacks.
-    
-      Want to see nerd stats ? http://www.codeivate.com/users/gesjeremie
+      <div class="alert --with-icon"><i class="fa fa-info"></i> I listed here the technologies I use in my <strong>day-to-day life</strong>. In fact I already worked with some others stacks like <strong>Ruby / Rails</strong> and <strong>Nodejs / Sails</strong>.</div>
+      
+      <div class="+spacer-medium +center">
+        <a href="http://www.codeivate.com/users/gesjeremie" class="button">Want to see nerd stats ?</a>
+      </div>
+
     </div>
   </div>
 

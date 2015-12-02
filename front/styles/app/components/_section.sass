@@ -2,6 +2,9 @@
   padding-top: 4em
   padding-bottom: 6em
   border-bottom: 1px solid $color-grey
+  
+  @include option(grey)
+    background-color: $color-grey-light
 
   @include part(title)
     color: $color-shade-1
@@ -11,7 +14,6 @@
     padding-bottom: 1.6em
 
   @include part(content)
-    color: $color-shade-3
     font-size: 18px
     font-weight: 300
 
