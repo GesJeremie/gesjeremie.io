@@ -71,6 +71,8 @@
             <li>Sublime text</li>
             <li>Command Line / Iterm</li>
             <li>Trello</li>
+            <li>Mailtrap.io</li>
+            <li>Mailgun</li>
           </ul>
         </div>
       </div>
@@ -91,29 +93,55 @@
   {{-- Experiences --}}
   <div class="section">
     <h2 class="section__title">Experiences</h2>
-
-    Baby Sitting Bordeaux (Bordeaux, France)
-    Founder - Back-end / Front-end Developer / Marketing / Support
-    November 2015 - Present
-
-    Virtual Safety Inc & Gotham Partners LLC (Baton Rouge, Louisiana)
-    Front-End Developer
-    Feb 2014 - Present
-
-    La Petite Box SAS (Bordeaux, France)
-    Co-Founder -  Front-end Developer
-    Sept 2014 - Present
-
-    Agence Volt (Bordeaux, France)
-    Co-Founder - Back-end / Front-end Developer
-    Nov 2012 - Nov 2013
-
-    Alcool Arcachon (Bordeaux, France)
-    Co-Founder - Back-end / Front-end Developer / Delivery
-    May 2013 - Sept 2013
     
-    Freelance Developer
-    2007 - Present 
+    <div class="container">
+      <div class="section__content">
+        <strong>Baby Sitting Bordeaux (Bordeaux, France)</strong><br/>
+        Founder - Full Stack Developer / Marketing / Support<br/>
+        November 2015 - Present<br/>
+        
+        Baby Sitting Bordeaux is that kind of project used as a sandbox to improve and re-use my skills. The main goal of the application is to create connections between families and baby sitters in the city of Bordeaux, France.<br/>
+
+        I used Laravel 5.1 and Mysql for the backend and everything is well tested with PHPUnit. I created some PHPUnit assert which are connected with the API of mailtrap.io to test when the application sends mails (AssertEmailIsSent(), AssertEmailSubjectContains(), AssertEmailNameSenderEquals(), ...). <br/>
+
+        The css part is coded with a sweet Sass structure, Csstyle.io to have a modular approach (It looks like BEM without the pain). 
+        For the javascript section, I used coffeescript coupled with Gothamjs.io (a side project). The whole front-end is compiled by brunch.io (similar to Grunt / Gulp) with an average time of 100ms.<br/>
+
+        The application is proudly hosted on DigitalOcean and can be deployed with zero-downtime thanks to deployer (similar to capistrano).<br/>
+
+        The whole project (Development / Marketing / Support) is organised with Trello and versionned on Bitbucket. <br/>
+
+        <div class="+spacer"></div>
+
+        <strong>Virtual Safety Inc & Gotham Partners LLC (Baton Rouge, Louisiana)</strong><br/>
+        Remote Employee - Front-End Developer<br/>
+        Feb 2014 - Present<br/>
+
+
+
+
+        
+        <!-- 
+        La Petite Box SAS (Bordeaux, France)
+        Co-Founder -  Front-end Developer
+        Sept 2014 - Present
+
+        Agence Volt (Bordeaux, France)
+        Co-Founder - Full Stack Developer
+        Nov 2012 - Nov 2013
+
+        Alcool Arcachon (Bordeaux, France)
+        Co-Founder - Full Stack Developer / Delivery
+        May 2013 - Sept 2013
+        
+        Freelance Developer
+        2007 - Present
+        -->
+      </div>
+    </div>
+
+
+
     
 
 
