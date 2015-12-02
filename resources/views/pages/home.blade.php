@@ -36,35 +36,51 @@
   {{-- Skills --}}
   <div class="section">
     <h2 class="section__title">Skills</h2>  
+    <div class="container">
+      <div class="row">
+        <div class="grid-4">
+          <ul class="list">
+            <li class="list__title">Front</li>
+            <li>Html / Blade / Haml / Erb</li>
+            <li>Css / Sass / Csstyle.io / Gridle.org / Bootstrap</li>
+            <li>Bower</li>
+            <li>Brunch.io (In my opinion better than Gulp / Grunt)</li>
+            <li>Javascript / Coffeescript / Qunit / jQuery / Gothamjs.io</li>
+          </ul>
+        </div>
+        <div class="grid-4">
+          <ul class="list">
+            <li class="list__title">Back</li>
+            <li>PHP</li>
+            <li>Frameworks: Laravel 4.2 and 5.1 / Codeigniter / PhalconPHP</li>
+            <li>Vagrant / Homestead</li>
+            <li>Composer</li>
+            <li>TDD (phpunit)</li>
+            <li>Deployer / Capistrano</li>
+            <li>Mysql</li>
+          </ul>
+        </div>
+        
+        <div class="grid-4">
+          <ul class="list">
+            <li class="list__title">Toolkit</li>
+            <li>Git / Github / Bitbucket</li>
+            <li>Digital Ocean</li>
+            <li>Stripe</li>
+            <li>Sequel Pro</li>
+            <li>Sublime text</li>
+            <li>Command Line / Iterm</li>
+            <li>Trello</li>
+          </ul>
+        </div>
+      </div>
+      
+      <div class="clear"></div>
+
+      I listed here the technologies I use in my day-to-day life. In fact I already worked with the Ruby / Rails and Nodejs / Sails stacks.
     
-    Front:
-      - Html / Blade / Haml / Erb
-      - Css / Sass / Csstyle.io / Gridle.org / Bootstrap
-      - Bower
-      - Brunch.io (In my opinion better than Gulp / Grunt)
-      - Javascript / Coffeescript / Qunit / jQuery
-
-    Back:
-      - PHP
-      - Frameworks: Laravel 4.2 and 5.1 / Codeigniter / PhalconPHP
-      - Vagrant / Homestead
-      - Composer
-      - TDD (phpunit)
-      - Deployer / Capistrano
-      - Mysql
-
-    Toolkit:
-      - Git / Github / Bitbucket
-      - Digital Ocean
-      - Stripe
-      - Sequel Pro
-      - Sublime text
-      - Command Line / Iterm
-      - Trello
-
-    I listed here the technologies I use in my day-to-day life. In fact I already worked with the Ruby / Rails and Nodejs / Sails stacks.
-  
-    Want to see nerd stats ? http://www.codeivate.com/users/gesjeremie
+      Want to see nerd stats ? http://www.codeivate.com/users/gesjeremie
+    </div>
   </div>
 
   {{-- Experiences --}}
