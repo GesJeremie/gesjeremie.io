@@ -81,7 +81,8 @@
       <div class="alert --with-icon"><i class="fa fa-info"></i> I listed here the technologies I use in my <strong>day-to-day life</strong>. In fact I already worked with some others stacks like <strong>Ruby / Rails</strong> and <strong>Nodejs / Sails</strong>.</div>
       
       <div class="+spacer-medium +center">
-        <a href="http://www.codeivate.com/users/gesjeremie" class="button">Want to see nerd stats ?</a>
+        <a target="_blank" href="http://www.codeivate.com/users/gesjeremie" class="button">Want to see nerd stats ?</a><br/>
+        <a target="_blank" class="button --link" href="https://github.com/GesJeremie">Or see what I do on <i class="fa fa-github"></i> Github</a>
       </div>
 
     </div>
