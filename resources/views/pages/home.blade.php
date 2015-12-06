@@ -141,23 +141,23 @@
 
 
 
-        <div class="+spacer"></div>
+        <div class="+spacer-large"></div>
         
-        <p class="section__content">
-          Agence Volt (Bordeaux, France)<br/>
-          Co-Founder - Full Stack Developer<br/>
-          Nov 2012 - Nov 2013<br/>
-          
+        <h3 class="section__company">Agence Volt (Bordeaux, France)</h3>
+        <h4 class="section__role">Co-Founder - Full Stack Developer</h4>
+        <h5 class="section__date">Nov 2012 - Nov 2013</h5>
+
+        <p class="section__content --experiences">
           Created a code outsourcing company with one other associate. I created the back-end and the front-end for three big web-projects that were made within one year and stayed scalable despite lots of changes to user stories.<br/>
         </p>
 
-        <div class="+spacer"></div>
+        <div class="+spacer-large"></div>
         
-        <p class="section__content">
-          Alcool Arcachon (Bordeaux, France)<br/>
-          Co-Founder - Full Stack Developer / Delivery<br/>
-          May 2013 - Sept 2013<br/>
-          
+        <h3 class="section__company">Alcool Arcachon (Bordeaux, France)</h3>
+        <h4 class="section__role">Co-Founder - Full Stack Developer / Delivery</h4>
+        <h5 class="section__date">May 2013 - Sept 2013</h5>
+
+        <p class="section__content --experiences">          
           In my hometown it was legal to sell alcohol late into the night, but most stores did not stay open late. There was a need  that no one was servicing. I teamed up with  one other associate and created a web based alcohol delivery service. <br/>
 
           We leveraged the power of social media in combination with an easy to use web interface that made ordering alcohol online easier than ordering a pizza. <br/>
@@ -169,12 +169,12 @@
            The company became very profitable very quickly. We however, found it difficult to grow outside of the local area for legal reasons. After overcoming all the technological challenges we started to grow bored with the business and ultimately sold the company for a nice profit. <br/>
         </p>
 
-        <div class="+spacer"></div>
+        <div class="+spacer-large"></div>
         
-        <p class="section__content">
-          Freelance Developer<br/>
-          2007 - Present<br/>
+        <h3 class="section__company">Freelance Developer</h3>
+        <h5 class="section__date">2007 - Present</h5>
 
+        <p class="section__content --experiences">
           I began improving my workflow by moving to an Object-Oriented approach with SlimFramework. <br/>
 
           I pushed forward with CodeIgniter and began to improve the Framework with Observers Pattern, auto-migrations, and other tools that help scale high traffic applications. <br/>
