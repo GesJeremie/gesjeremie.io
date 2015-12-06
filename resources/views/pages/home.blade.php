@@ -165,7 +165,11 @@
         Freelance Developer<br/>
         2007 - Present<br/>
 
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pretium commodo massa sed lobortis. Morbi nec risus nunc. Quisque molestie lectus vitae commodo interdum. Pellentesque sodales tincidunt neque, sit amet facilisis nisl aliquet id. Nam efficitur nisi ut eleifend placerat. Nulla at eleifend felis, nec pharetra dui. Donec dapibus lorem sed dapibus congue. Donec interdum odio eu dolor pharetra viverra. Nam porta dui nec porta egestas. Vivamus volutpat mauris a euismod pretium. Fusce ac lacus est. Proin eleifend nisl posuere accumsan volutpat. Sed mollis at mi eget faucibus. Cras a purus lacus. Donec laoreet laoreet massa sit amet vulputate.
+        I began improving my workflow by moving to an Object-Oriented approach with SlimFramework. <br/>
+
+        I pushed forward with CodeIgniter and began to improve the Framework with Observers Pattern, auto-migrations, and other tools that help scale high traffic applications. <br/>
+
+        I quickly reached the limits of CodeIgniter and discovered the world of Ruby on Rails and later Laravel. 
 
 
       </div>
