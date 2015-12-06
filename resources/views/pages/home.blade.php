@@ -115,7 +115,9 @@
         Remote Employee - Front-End Developer<br/>
         Feb 2014 - Present<br/>
 
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pretium commodo massa sed lobortis. Morbi nec risus nunc. Quisque molestie lectus vitae commodo interdum. Pellentesque sodales tincidunt neque, sit amet facilisis nisl aliquet id. Nam efficitur nisi ut eleifend placerat. Nulla at eleifend felis, nec pharetra dui. Donec dapibus lorem sed dapibus congue. Donec interdum odio eu dolor pharetra viverra. Nam porta dui nec porta egestas. Vivamus volutpat mauris a euismod pretium. Fusce ac lacus est. Proin eleifend nisl posuere accumsan volutpat. Sed mollis at mi eget faucibus. Cras a purus lacus. Donec laoreet laoreet massa sit amet vulputate.
+        Front-end developer in a team of four Ruby on Rails developers. We created three full stack ruby SaaS applications and handled everything from design and planning to deployment.<br/>
+
+        I personally dealt with the schema of the front-end (Coffeescript / Sass) and wrote most of the front-end code. Had to overcome obstacles such as constantly evolving software requirements based on user’s needs while keeping the code base clean and maintainable.<br/>
 
         <div class="+spacer"></div>
 
