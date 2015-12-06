@@ -214,7 +214,7 @@
     <div class="container">
       <div class="grid-6 centered +center">
         <p class="section__content +center">
-          If you think I will be the perfect fit for your company, I will be pleased to know more about you.
+          If you think I will be the perfect fit for your company, I will be happy to hear from you.
         </p>
         <a class="button" href="#">Send me an email !</a>
       </div>
