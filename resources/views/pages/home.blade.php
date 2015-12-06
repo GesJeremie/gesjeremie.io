@@ -182,9 +182,9 @@
 
   </div>
 
-  {{-- Sideprojects --}}
+  {{-- Open Source --}}
   <div class="section --grey">
-    <h2 class="section__title">Side Projects</h2>
+    <h2 class="section__title">Open Source</h2>
   </div>
 
 
