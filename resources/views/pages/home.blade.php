@@ -1,12 +1,12 @@
 @extends('layouts.master')
 
 @section('content')
-  <div class="header">
+  <div id="top" class="header">
     <div class="header__overlay"></div>
     <div class="container +center">
       <h1 class="header__title">Full Stack Developer</h1>
       <h2 class="header__punchline">PHP, Laravel, Coffeescript, SASS <strong>enthusiast</strong>.</h2>
-      <a href="#" class="header__button">Hire me</a>
+      <a href="#contact" class="header__button">Hire me</a>
     </div>
   </div>
   
@@ -209,7 +209,7 @@
   </div>
 
   {{-- Contact --}}
-  <div class="section">
+  <div id="contact" class="section">
     <h2 class="section__title">Contact</h2>
     <div class="container">
       <div class="grid-6 centered +center">
@@ -217,8 +217,16 @@
           If you think I will be the perfect fit for your company, I will be happy to hear from you.
         </p>
         <a class="button" href="#">Send me an email !</a>
+
+        <div class="+spacer"></div>
+        <div class="+center">
+          <a href="#top" class="button --link">Back to the top <i class="fa fa-caret-up"></i></a>
+        </div>
       </div>
     </div>
   </div>
+
+  
+  <div class="+spacer-small"></div>
 
 @stop

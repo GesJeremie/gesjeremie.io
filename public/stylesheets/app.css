@@ -208,6 +208,7 @@ code {
     padding: 18px 24px;
     font-size: 18px;
     font-weight: 400;
+    cursor: pointer;
     position: relative;
     -webkit-border-radius: 5px;
     -khtml-border-radius: 5px;
@@ -220,7 +221,7 @@ code {
     -ms-transition: ease 0.4s;
     -o-transition: ease 0.4s;
     transition: ease 0.4s; }
-    /* line 57, /Library/WebServer/Documents/workflow/gesjeremie.io/front/styles/app/components/_header.sass */
+    /* line 58, /Library/WebServer/Documents/workflow/gesjeremie.io/front/styles/app/components/_header.sass */
     .header__button:active, .header__button:hover, .header__button:focus {
       color: #f3bc65;
       border-color: #f3bc65; }

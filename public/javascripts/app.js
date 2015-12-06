@@ -169,7 +169,15 @@ $(function() {
 });
 
 ;require.register("routes", function(exports, require, module) {
-module.exports = function(route) {};
+module.exports = function(route) {
+  return route.match('/', function() {
+    return $('a').click(function() {
+      return $('html, body').animate({
+        scrollTop: $($.attr(this, 'href')).offset().top
+      }, 900);
+    });
+  });
+};
 });
 
 ;require.register("start", function(exports, require, module) {

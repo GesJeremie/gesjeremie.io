@@ -8,3 +8,11 @@
 ##
 
 module.exports = (route) ->
+
+  route.match '/', ->
+
+    $('a').click ->
+      $('html, body').animate
+        scrollTop: $($.attr(this, 'href')).offset().top
+      , 900
+      
