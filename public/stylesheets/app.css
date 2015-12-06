@@ -260,6 +260,7 @@ br {
 
 /* line 32, /Library/WebServer/Documents/workflow/gesjeremie.io/front/node_modules/csstyle/csstyle.scss */
 .alert {
+  position: relative;
   width: 100%;
   padding: 20px;
   color: #364347;
@@ -273,10 +274,15 @@ br {
   border-radius: 5px;
   font-family: 'Lato', sans-serif;
   font-weight: 300; }
-  /* line 11, /Library/WebServer/Documents/workflow/gesjeremie.io/front/styles/app/components/_alert.sass */
-  .alert.\--with-icon i {
-    color: #364347;
-    padding-right: 1em; }
+  /* line 40, /Library/WebServer/Documents/workflow/gesjeremie.io/front/node_modules/csstyle/csstyle.scss */
+  .alert.\--with-icon {
+    padding-left: 50px; }
+    /* line 14, /Library/WebServer/Documents/workflow/gesjeremie.io/front/styles/app/components/_alert.sass */
+    .alert.\--with-icon i {
+      position: absolute;
+      color: #364347;
+      left: 20px;
+      top: 22px; }
 
 /* line 32, /Library/WebServer/Documents/workflow/gesjeremie.io/front/node_modules/csstyle/csstyle.scss */
 .list {

@@ -80,7 +80,7 @@
       <div class="clear"></div>
       <div class="+spacer"></div>
 
-      <div class="alert --with-icon"><i class="fa fa-info"></i> Here are the technologies I use in my day-to-day life. I’ve also worked  with some others stacks like Ruby on Rails and Nodejs / Sails.</div>
+      <div class="alert --with-icon"><i class="fa fa-info"></i> Here are the technologies I use in my day-to-day life. I’ve also worked  with some others stacks like Ruby / Rails and Nodejs / Sails.</div>
       
       <div class="+spacer-medium +center">
         <a target="_blank" href="http://www.codeivate.com/users/gesjeremie" class="button">Want to see some nerd stats ?</a><br/>
