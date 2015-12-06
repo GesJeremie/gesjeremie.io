@@ -149,7 +149,15 @@
         Co-Founder - Full Stack Developer / Delivery<br/>
         May 2013 - Sept 2013<br/>
         
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pretium commodo massa sed lobortis. Morbi nec risus nunc. Quisque molestie lectus vitae commodo interdum. Pellentesque sodales tincidunt neque, sit amet facilisis nisl aliquet id. Nam efficitur nisi ut eleifend placerat. Nulla at eleifend felis, nec pharetra dui. Donec dapibus lorem sed dapibus congue. Donec interdum odio eu dolor pharetra viverra. Nam porta dui nec porta egestas. Vivamus volutpat mauris a euismod pretium. Fusce ac lacus est. Proin eleifend nisl posuere accumsan volutpat. Sed mollis at mi eget faucibus. Cras a purus lacus. Donec laoreet laoreet massa sit amet vulputate.
+        In my hometown it was legal to sell alcohol late into the night, but most stores did not stay open late. There was a need  that no one was servicing. I teamed up with  one other associate and created a web based alcohol delivery service. <br/>
+
+        We leveraged the power of social media in combination with an easy to use web interface that made ordering alcohol online easier than ordering a pizza. <br/>
+
+        We started with a Minimum Valuable Product and after seeing success we began growing the usability of the ordering platform. <br/>
+
+         Aside from improving the website, we created an App that customers could use as well to order from their phones. <br/>
+
+         The company became very profitable very quickly. We however, found it difficult to grow outside of the local area for legal reasons. After overcoming all the technological challenges we started to grow bored with the business and ultimately sold the company for a nice profit. <br/>
 
 
         <div class="+spacer"></div>
