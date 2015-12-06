@@ -118,9 +118,9 @@
         <h5 class="section__date">Feb 2014 - Present<h5>
 
         <p class="section__content --experiences">
-          Front-end developer in a team of four Ruby on Rails developers. We created three full stack ruby SaaS applications and handled everything from design and planning to deployment.<br/>
+          Front-end developer in a team of four <strong>Ruby on Rails developers</strong>. We created <strong>three full stack ruby SaaS applications</strong> and handled everything from design and planning to deployment.<br/>
 
-          I personally dealt with the schema of the front-end (Coffeescript / Sass) and wrote most of the front-end code. Had to overcome obstacles such as constantly evolving software requirements based on user’s needs while keeping the code base clean and maintainable.<br/>
+          I personally dealt with the <strong>schema</strong> of the front-end (Coffeescript / Sass) and <strong>wrote most</strong> of the front-end code. Had to overcome <strong>obstacles</strong> such as constantly <strong>evolving software</strong> requirements based on <strong>user’s needs</strong> while keeping the code base <strong>clean</strong> and maintainable.<br/>
         </p>
 
         <div class="+spacer-large"></div>
@@ -130,9 +130,9 @@
         <h5 class="section__date">Sept 2014 - Present</h5>
 
         <p class="section__content --experiences">          
-          Created a monthly delivery box company with two other associates and one graphic artist. I was the front-end developer, I designed the UI/UX for the interface. I worked with a back-end developer to build and ship the application in 2 weeks.<br/>
+          Created a <strong>monthly delivery box</strong> company with two other associates and one graphic artist. I was the front-end developer, I <strong>designed</strong> the UI/UX for the interface. I worked with a back-end developer to build and ship the application in <strong>2 weeks</strong>.<br/>
 
-          I managed the company for 2 months. My responsibilities included:<br/>
+          I <strong>managed</strong> the company for 2 months. My <strong>responsibilities</strong> included:<br/>
           - Dealing with our partners to get low prices on our orders<br/>
           - Manage the stock<br/>
           - Customer delivery logistics<br/>
@@ -148,7 +148,7 @@
         <h5 class="section__date">Nov 2012 - Nov 2013</h5>
 
         <p class="section__content --experiences">
-          Created a code outsourcing company with one other associate. I created the back-end and the front-end for three big web-projects that were made within one year and stayed scalable despite lots of changes to user stories.<br/>
+          Created a code outsourcing company with one other associate. I created the back-end and the front-end for <strong>three big web-projects</strong> that were made within one year and stayed <strong>scalable</strong> despite lots of changes to user stories.<br/>
         </p>
 
         <div class="+spacer-large"></div>
@@ -158,15 +158,15 @@
         <h5 class="section__date">May 2013 - Sept 2013</h5>
 
         <p class="section__content --experiences">          
-          In my hometown it was legal to sell alcohol late into the night, but most stores did not stay open late. There was a need  that no one was servicing. I teamed up with  one other associate and created a web based alcohol delivery service. <br/>
+          In my hometown it was legal to sell alcohol late into the night, but most stores did not stay open late. There was <strong>a need</strong>  that no one was servicing. I teamed up with one other associate and created a <strong>web based</strong> alcohol delivery service. <br/>
 
-          We leveraged the power of social media in combination with an easy to use web interface that made ordering alcohol online easier than ordering a pizza. <br/>
+          We leveraged the power of <strong>social media</strong> in combination with an easy to use web interface that made ordering alcohol online <strong>easier</strong> than ordering a pizza. <br/>
 
-          We started with a Minimum Valuable Product and after seeing success we began growing the usability of the ordering platform. <br/>
+          We started with a Minimum Valuable Product and after seeing <strong>success</strong> we began <strong>growing</strong> the usability of the ordering platform. <br/>
 
            Aside from improving the website, we created an App that customers could use as well to order from their phones. <br/>
 
-           The company became very profitable very quickly. We however, found it difficult to grow outside of the local area for legal reasons. After overcoming all the technological challenges we started to grow bored with the business and ultimately sold the company for a nice profit. <br/>
+           The company became <strong>very profitable</strong> very quickly. We however, found it difficult to grow outside of the local area for legal reasons. After overcoming all the technological challenges we started to <strong>grow bored</strong> with the business and ultimately <strong>sold</strong> the company for a nice profit. <br/>
         </p>
 
         <div class="+spacer-large"></div>
@@ -175,11 +175,11 @@
         <h5 class="section__date">2007 - Present</h5>
 
         <p class="section__content --experiences">
-          I began improving my workflow by moving to an Object-Oriented approach with SlimFramework. <br/>
+          I began <strong>improving</strong> my workflow by moving to an Object-Oriented approach with SlimFramework. <br/>
 
-          I pushed forward with CodeIgniter and began to improve the Framework with Observers Pattern, auto-migrations, and other tools that help scale high traffic applications. <br/>
+          I pushed forward with CodeIgniter and began to improve the Framework with Observers Pattern, auto-migrations, and other tools that help <strong>scale</strong> high traffic applications. <br/>
 
-          I quickly reached the limits of CodeIgniter and discovered the world of Ruby on Rails and later Laravel. 
+          I quickly <strong>reached the limits</strong> of CodeIgniter and <strong>discovered</strong> the world of Ruby on Rails and later Laravel. 
         </p>
 
       </div>
