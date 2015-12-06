@@ -125,7 +125,13 @@
         Co-Founder -  Front-end Developer<br/>
         Sept 2014 - Present<br/>
         
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pretium commodo massa sed lobortis. Morbi nec risus nunc. Quisque molestie lectus vitae commodo interdum. Pellentesque sodales tincidunt neque, sit amet facilisis nisl aliquet id. Nam efficitur nisi ut eleifend placerat. Nulla at eleifend felis, nec pharetra dui. Donec dapibus lorem sed dapibus congue. Donec interdum odio eu dolor pharetra viverra. Nam porta dui nec porta egestas. Vivamus volutpat mauris a euismod pretium. Fusce ac lacus est. Proin eleifend nisl posuere accumsan volutpat. Sed mollis at mi eget faucibus. Cras a purus lacus. Donec laoreet laoreet massa sit amet vulputate.
+        Created a monthly delivery box company with two other associates and one graphic artist. I was the front-end developer, I designed the UI/UX for the interface. I worked with a back-end developer to build and ship the application in 2 weeks.<br/>
+
+        I managed the company for 2 months. My responsibilities included:<br/>
+        - Dealing with our partners to get low prices on our orders<br/>
+        - Manage the stock<br/>
+        - Customer delivery logistics<br/>
+        - Preparation of the boxes<br/>
 
 
 
