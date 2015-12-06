@@ -11,3 +11,12 @@
 |
 */
 Route::get('/', 'PagesController@getIndex');
+
+// Manage transitions of the previous website
+Route::get('/en', function() {
+  return redirect('/');
+});
+
+Route::get('/fr', function() {
+  return redirect('/');
+});
