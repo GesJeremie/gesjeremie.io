@@ -20,9 +20,9 @@
         </div>
         <div class="grid-8">
           <p class="section__content">
-            My name is Jérémie Ges, I'm a <strong>French Full Stack developer</strong> travelling around the world.<br/>
-            I work for customers from <strong>different countries</strong> (France, America, Greece) and I code awesome web applications to automate their boring tasks, to understand better their customers, to improve their logistics, in short : I give <strong>super powers</strong> to businesses.<br/>
-            Currently I'm living in Thessaloniki (Greece) since more than 1 year where I fell in love with the culture and the language.
+            My name is Jérémie Ges, I'm a French <strong>Full Stack developer</strong> travelling around the world.<br/>
+            I work for customers from <strong>different countries</strong> (France, America, Greece) and I code awesome web applications to automate their boring tasks, so they can better understand their customers and improve their logistics. In short : I turbo charge businesses and give them a technological edge over their competition. <br/>
+            I’ve been living in  Thessaloniki (Greece) for over 1 year and have fallen in love with the culture and the Greek language.
           </p>
           <div class="alert --with-icon">
             <i class="fa fa-globe"></i> I'm available to be hired and work in your awesome team.
@@ -53,9 +53,9 @@
             <li class="list__title">Back</li>
             <li>PHP</li>
             <li>Laravel 4.2 and 5.1 / Codeigniter / PhalconPHP</li>
+            <li>PHPUnit</li>
             <li>Vagrant / Homestead</li>
             <li>Composer</li>
-            <li>TDD (phpunit)</li>
             <li>Deployer / Capistrano</li>
             <li>Mysql</li>
           </ul>
@@ -80,11 +80,11 @@
       <div class="clear"></div>
       <div class="+spacer"></div>
 
-      <div class="alert --with-icon"><i class="fa fa-info"></i> I listed here the technologies I use in my <strong>day-to-day life</strong>. In fact I already worked with some others stacks like <strong>Ruby / Rails</strong> and <strong>Nodejs / Sails</strong>.</div>
+      <div class="alert --with-icon"><i class="fa fa-info"></i> Here are the technologies I use in my day-to-day life. I’ve also worked  with some others stacks like Ruby on Rails and Nodejs / Sails.</div>
       
       <div class="+spacer-medium +center">
         <a target="_blank" href="http://www.codeivate.com/users/gesjeremie" class="button">Want to see some nerd stats ?</a><br/>
-        <a target="_blank" class="button --link" href="https://github.com/GesJeremie">Or see what I do on <i class="fa fa-github"></i> Github</a>
+        <a target="_blank" class="button --link" href="https://github.com/GesJeremie">Or maybe my <i class="fa fa-github"></i> Github</a>
       </div>
 
     </div>
@@ -93,7 +93,7 @@
   {{-- Experiences --}}
   <div class="section">
     <h2 class="section__title">Experiences</h2>
-    
+      
     <div class="container">
       <div class="section__content">
         <strong>Baby Sitting Bordeaux (Bordeaux, France)</strong><br/>
@@ -159,7 +159,7 @@
   </div>
 
   {{-- Sideprojects --}}
-  <div class="section">
+  <div class="section --grey">
     <h2 class="section__title">Side Projects</h2>
   </div>
 
@@ -170,7 +170,7 @@
   </div>
 
   {{-- Contact --}}
-  <div class="section">
+  <div class="section --grey">
     <h2 class="section__title">Contact</h2>
   </div>
 
