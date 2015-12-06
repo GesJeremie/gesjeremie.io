@@ -141,8 +141,7 @@
         Co-Founder - Full Stack Developer<br/>
         Nov 2012 - Nov 2013<br/>
         
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pretium commodo massa sed lobortis. Morbi nec risus nunc. Quisque molestie lectus vitae commodo interdum. Pellentesque sodales tincidunt neque, sit amet facilisis nisl aliquet id. Nam efficitur nisi ut eleifend placerat. Nulla at eleifend felis, nec pharetra dui. Donec dapibus lorem sed dapibus congue. Donec interdum odio eu dolor pharetra viverra. Nam porta dui nec porta egestas. Vivamus volutpat mauris a euismod pretium. Fusce ac lacus est. Proin eleifend nisl posuere accumsan volutpat. Sed mollis at mi eget faucibus. Cras a purus lacus. Donec laoreet laoreet massa sit amet vulputate.
-
+        Created a code outsourcing company with one other associate. I created the back-end and the front-end for three big web-projects that were made within one year and stayed scalable despite lots of changes to user stories.<br/>
 
         <div class="+spacer"></div>
 
