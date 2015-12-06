@@ -10626,5 +10626,14 @@ html.lg {
   .gridle-debug .debug-color-lg-6, .debug-color-lg-6.gridle-debug {
     background-color: #b2d8ee; } }
 
+/* line 116, /Library/WebServer/Documents/workflow/gesjeremie.io/front/styles/vendor/gridle/_mixins.scss */
+html.xs [class*="grid-"] {
+  width: 100%; }
+
+@media screen and (max-width: 768px) {
+  /* line 13, /Library/WebServer/Documents/workflow/gesjeremie.io/front/styles/gridle.sass */
+  [class*="grid-"] {
+    width: 100%; } }
+
 
 /*# sourceMappingURL=vendor.css.map*/

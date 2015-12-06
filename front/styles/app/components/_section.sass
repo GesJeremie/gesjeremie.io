@@ -21,11 +21,18 @@
       padding-left: 25px
       text-align: justify
 
+      @include gridle_state(xs)
+        padding-left: 0
+        border: 0
+
   @include part(company)
     color: $color-shade-1
     font-style: normal
     font-size: 24px
     +font-montserrat
+
+    @include gridle_state(xs)
+      text-align: center
 
   @include part(role)
     font-style: normal
@@ -33,10 +40,16 @@
     +font-montserrat(400)
     margin-top: 0.2em
 
+    @include gridle_state(xs)
+      text-align: center
+
   @include part(date)
     font-size: 17px
     font-style: normal
     color: $color-yellow-reverse
     margin-top: 1em
     margin-bottom: 2em
+
+    @include gridle_state(xs)
+      text-align: center
 

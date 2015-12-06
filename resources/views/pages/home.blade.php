@@ -95,7 +95,7 @@
     <h2 class="section__title">Experiences</h2>
     <div class="+spacer"></div>
     <div class="container">
-      <div>
+      <div class="grid-12 centered">
         <h3 class="section__company">Baby Sitting Bordeaux (Bordeaux, France)</h3>
         <h4 class="section__role">Founder - Full Stack Developer / Marketing / Support</h4>
         <h5 class="section__date">November 2015 - Present</h5>

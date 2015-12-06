@@ -250,6 +250,11 @@ code {
       border-left: 2px solid #FAF9FA;
       padding-left: 25px;
       text-align: justify; }
+      @media only screen and (max-width: 768px) {
+        /* line 40, /Library/WebServer/Documents/workflow/gesjeremie.io/front/node_modules/csstyle/csstyle.scss */
+        .section__content.\--experiences {
+          padding-left: 0;
+          border: 0; } }
   /* line 76, /Library/WebServer/Documents/workflow/gesjeremie.io/front/node_modules/csstyle/csstyle.scss */
   .section__company {
     color: #364347;
@@ -257,6 +262,10 @@ code {
     font-size: 24px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 700; }
+    @media only screen and (max-width: 768px) {
+      /* line 76, /Library/WebServer/Documents/workflow/gesjeremie.io/front/node_modules/csstyle/csstyle.scss */
+      .section__company {
+        text-align: center; } }
   /* line 76, /Library/WebServer/Documents/workflow/gesjeremie.io/front/node_modules/csstyle/csstyle.scss */
   .section__role {
     font-style: normal;
@@ -264,6 +273,10 @@ code {
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     margin-top: 0.2em; }
+    @media only screen and (max-width: 768px) {
+      /* line 76, /Library/WebServer/Documents/workflow/gesjeremie.io/front/node_modules/csstyle/csstyle.scss */
+      .section__role {
+        text-align: center; } }
   /* line 76, /Library/WebServer/Documents/workflow/gesjeremie.io/front/node_modules/csstyle/csstyle.scss */
   .section__date {
     font-size: 17px;
@@ -271,6 +284,10 @@ code {
     color: #f3bc65;
     margin-top: 1em;
     margin-bottom: 2em; }
+    @media only screen and (max-width: 768px) {
+      /* line 76, /Library/WebServer/Documents/workflow/gesjeremie.io/front/node_modules/csstyle/csstyle.scss */
+      .section__date {
+        text-align: center; } }
 
 /* line 40, /Library/WebServer/Documents/workflow/gesjeremie.io/front/node_modules/csstyle/csstyle.scss */
 .picture.\--avatar {

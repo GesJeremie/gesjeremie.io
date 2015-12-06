@@ -9,3 +9,7 @@
 
 // Generate css classes (to use in the html)
 +gridle_generate_classes()
+
+[class*="grid-"]
+  @include gridle_state(xs)
+    width: 100%
