@@ -110,6 +110,9 @@
 
           The whole project (Development / Marketing / Support) is <strong>organised with Trello</strong> and <strong>versioned on Bitbucket</strong>.<br/>
         </p>
+        <div class="+center">
+          <a target="_blank" class="button" href="http://www.babysittingbordeaux.fr/">See BabySittingBordeaux.fr</a>
+        </div>
 
         <div class="+spacer-large"></div>
         
@@ -122,6 +125,11 @@
 
           I personally dealt with the <strong>schema</strong> of the front-end (Coffeescript / Sass) and <strong>wrote most</strong> of the front-end code. Had to overcome <strong>obstacles</strong> such as constantly <strong>evolving software</strong> requirements based on <strong>user’s needs</strong> while keeping the code base <strong>clean</strong> and maintainable.<br/>
         </p>
+
+        <div class="+center">
+          <a target="_blank" class="button" href="https://carshopreviews.com/">See CarShopReviews.com</a>
+          <a target="_blank" class="button" href="https://employmentagencyreviews.net">See EmploymentAgencyReviews.net</a>
+        </div>
 
         <div class="+spacer-large"></div>
         
@@ -139,6 +147,9 @@
           - Preparation of the boxes<br/>
         </p>
 
+        <div class="+center">
+          <a target="_blank" class="button" href="https://www.bordeauxinbox.fr/">See BordeauxInBox.fr</a>
+        </div>
 
 
         <div class="+spacer-large"></div>
@@ -169,6 +180,11 @@
            The company became <strong>very profitable</strong> very quickly. We however, found it difficult to grow outside of the local area for legal reasons. After overcoming all the technological challenges we started to <strong>grow bored</strong> with the business and ultimately <strong>sold</strong> the company for a nice profit. <br/>
         </p>
 
+        <div class="+center">
+          <a target="_blank" class="button" href="https://www.facebook.com/livraison.alcool.arcachon/">See Fan Page Alcool Arcachon</a>
+        </div>
+
+
         <div class="+spacer-large"></div>
         
         <h3 class="section__company">Freelance Developer</h3>
@@ -185,11 +201,6 @@
       </div>
     </div>
 
-
-
-    
-
-
   </div>
 
   {{-- Open Source --}}
@@ -203,7 +214,7 @@
         <p class="section__content +center">
           In my spare time, I like to make stuff.
         </p>
-        <a class="button" href="#">Learn more about GothamJS</a>
+        <a class="button" target="_blank" href="{{ url('http://www.gothamjs.io/') }}">Learn more about GothamJS</a>
       </div>
     </div>
   </div>
@@ -216,7 +227,7 @@
         <p class="section__content +center">
           If you think I'm the perfect fit for your company, I will be happy to hear from you.
         </p>
-        <a class="button" href="#">Send me an email !</a>
+        <a class="button" href="mailto:ges.jeremie@gmail.com">Send me an email !</a>
 
         <div class="+spacer"></div>
         <div class="+center">
