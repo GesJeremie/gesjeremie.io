@@ -106,24 +106,24 @@
 
           The CSS part is coded with a <strong>modular Sass structure</strong> and uses <strong>csstyle.io</strong> (It looks like BEM without the pain). For the javascript section, I used <strong>coffeescript</strong> coupled with Gothamjs.io (a side project). The whole front-end is compiled by <strong>brunch.io</strong> (similar to Grunt / Gulp) with <strong>an average time of 100ms</strong>.<br/>
 
-          The application is proudly hosted on <strong>DigitalOcean</strong> and can be deployed with <strong>zero-downtime</strong> thanks to <strong>deployer</strong> (similar to capistrano).<br/>
+          The application is proudly hosted on <strong>DigitalOcean</strong> and can be deployed with <strong>zero-downtime</strong> thanks to <strong>deployer</strong> (similar to capistrano for PHP).<br/>
 
           The whole project (Development / Marketing / Support) is <strong>organised with Trello</strong> and <strong>versioned on Bitbucket</strong>.<br/>
         </p>
 
         <div class="+spacer-large"></div>
         
-        <p class="section__content">
-          <strong>Virtual Safety Inc & Gotham Partners LLC (Baton Rouge, Louisiana)</strong><br/>
-          Remote Employee - Front-End Developer<br/>
-          Feb 2014 - Present<br/>
+        <h3 class="section__company">Virtual Safety Inc & Gotham Partners LLC (Baton Rouge, Louisiana)</h3>
+        <h4 class="section__role">Remote Employee - Front-End Developer</h4>
+        <h5 class="section__date">Feb 2014 - Present<h5>
 
+        <p class="section__content --experiences">
           Front-end developer in a team of four Ruby on Rails developers. We created three full stack ruby SaaS applications and handled everything from design and planning to deployment.<br/>
 
           I personally dealt with the schema of the front-end (Coffeescript / Sass) and wrote most of the front-end code. Had to overcome obstacles such as constantly evolving software requirements based on user’s needs while keeping the code base clean and maintainable.<br/>
         </p>
 
-        <div class="+spacer"></div>
+        <div class="+spacer-large"></div>
         
         <p class="section__content">
           <strong>La Petite Box SAS (Bordeaux, France)</strong><br/>

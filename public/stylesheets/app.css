@@ -247,7 +247,7 @@ code {
     /* line 40, /Library/WebServer/Documents/workflow/gesjeremie.io/front/node_modules/csstyle/csstyle.scss */
     .section__content.\--experiences {
       border-left: 2px solid #FAF9FA;
-      padding-left: 15px;
+      padding-left: 25px;
       text-align: justify; }
   /* line 76, /Library/WebServer/Documents/workflow/gesjeremie.io/front/node_modules/csstyle/csstyle.scss */
   .section__company {
@@ -268,7 +268,8 @@ code {
     font-size: 17px;
     font-style: normal;
     color: #f3bc65;
-    margin-top: 1em; }
+    margin-top: 1em;
+    margin-bottom: 2em; }
 
 /* line 40, /Library/WebServer/Documents/workflow/gesjeremie.io/front/node_modules/csstyle/csstyle.scss */
 .picture.\--avatar {
