@@ -125,11 +125,11 @@
 
         <div class="+spacer-large"></div>
         
-        <p class="section__content">
-          <strong>La Petite Box SAS (Bordeaux, France)</strong><br/>
-          Co-Founder -  Front-end Developer<br/>
-          Sept 2014 - Present<br/>
-          
+        <h3 class="section__company">La Petite Box SAS (Bordeaux, France)</h3>
+        <h4 class="section__role">Co-Founder -  Front-end Developer</h4>
+        <h5 class="section__date">Sept 2014 - Present</h5>
+
+        <p class="section__content --experiences">          
           Created a monthly delivery box company with two other associates and one graphic artist. I was the front-end developer, I designed the UI/UX for the interface. I worked with a back-end developer to build and ship the application in 2 weeks.<br/>
 
           I managed the company for 2 months. My responsibilities included:<br/>
