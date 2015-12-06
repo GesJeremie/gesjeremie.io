@@ -1,6 +1,8 @@
 @extends('layouts.master')
 
 @section('content')
+  
+  {{-- Header --}}
   <div id="top" class="header">
     <div class="header__overlay"></div>
     <div class="container +center">

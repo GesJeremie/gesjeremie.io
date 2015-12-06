@@ -10,28 +10,29 @@
 
   {{-- Viewport --}}
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  <link rel="icon" href="{{ url('images/favicon.ico') }}" />
+  
+  {{-- Favicon --}}
+  <link rel="shortcut icon" type="image/png" href="{{ url('images/favicon.png') }}"/>
 
   @section('seo')
-    <meta name="description" content="" />
-    <meta name="keywords" content="" />
+    <meta name="description" content="PHP, Laravel, Coffeescript, SASS Enthusiast." />
+    <meta name="keywords" content="full stack developer, laravel developer, ges jeremie, jeremie ges, sass developer, coffeescript developer, digital nomad" />
 
     {{-- Facebook --}}
-    <meta property="og:title" content=""/>
-    <meta property="og:description" content="" />
+    <meta property="og:title" content="Ges Jérémie - Full Stack web developeer"/>
+    <meta property="og:description" content="PHP, Laravel, Coffeescript, SASS Enthusiast." />
     <meta property="og:url" content="{{ url() }}" />
-    <meta property="og:image" content=""/>
+    <meta property="og:image" content="{{ url('images/avatar.png') }}"/>
   @show
   
   {{-- Global metas, doesn't need to be in the seo section  --}}
-  <meta property="fb:app_id" content="" /> 
-  <meta property="og:type" content="" />
-  <meta property="og:site_name" content=""/>
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Ges Jérémie"/>
 
   {{-- Font Awesome cdn --}} 
   {!! Html::style('https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css') !!}
-
+  
+  {{-- Brunch autoreload under homestead--}}
   @if ( ! $app->environment('production'))
 
     <script>
