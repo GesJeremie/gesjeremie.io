@@ -195,19 +195,30 @@
   {{-- Open Source --}}
   <div class="section --grey">
     <h2 class="section__title">Open Source</h2>
-  </div>
-
-
-  {{-- Hobbies --}}
-  <div class="section">
-    <h2 class="section__title">Hobbies</h2>
+    <div class="+spacer"></div>
+    <div class="container">
+      <div class="grid-10 centered +center">
+        <img src="{{ url('images/gotham.png') }}" />
+        <div class="+spacer"></div>
+        <p class="section__content +center">
+          In my spare time, I like to make stuff.
+        </p>
+        <a class="button" href="#">Learn more about GothamJS</a>
+      </div>
+    </div>
   </div>
 
   {{-- Contact --}}
-  <div class="section --grey">
+  <div class="section">
     <h2 class="section__title">Contact</h2>
+    <div class="container">
+      <div class="grid-6 centered +center">
+        <p class="section__content +center">
+          If you think I will be the perfect fit for your company, I will be pleased to know more about you.
+        </p>
+        <a class="button" href="#">Send me an email !</a>
+      </div>
+    </div>
   </div>
-
-  <div class="+spacer-large"></div>
 
 @stop
