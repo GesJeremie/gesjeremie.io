@@ -5,3 +5,4 @@ Homestead.json
 .env
 /public/uploads/
 .DS_Store
+dploy.yaml
