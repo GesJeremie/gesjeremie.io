@@ -43,11 +43,11 @@
         <div class="grid-4">
           <ul class="list">
             <li class="list__title">Front</li>
-            <li>Html / Blade / Haml / Erb</li>
-            <li>Css / Sass / Csstyle.io / Gridle.org / Bootstrap</li>
+            <li>HTML / Blade / Haml / Erb</li>
+            <li>CSS / SASS / Csstyle.io / Gridle.org / Bootstrap</li>
             <li>Bower</li>
             <li>Brunch.io (In my opinion better than Gulp / Grunt)</li>
-            <li>Javascript / Coffeescript / Qunit / jQuery / Gothamjs.io</li>
+            <li>JavaScript / CoffeeScript / Qunit / jQuery / Gothamjs.io</li>
           </ul>
         </div>
         <div class="grid-4">
