@@ -1,3 +1,3 @@
 ## gesjeremie.io
 
-Work-in-progress.
+Feel free to look at the code :)
