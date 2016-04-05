@@ -5,7 +5,7 @@
 
   {{-- Title --}}
   @section('title')
-    <title>Ges Jérémie - Full Stack web developeer</title>
+    <title>Ges Jérémie - Full Stack web developer</title>
   @show
 
   {{-- Viewport --}}
