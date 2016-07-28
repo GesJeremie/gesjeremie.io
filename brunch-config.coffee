@@ -22,8 +22,8 @@ exports.config =
     # Path to build directory that would contain output.
     public: '../public'
 
-    # List of all watched paths by brunch.
-    watched: ['app', 'vendor', 'core', 'styles']
+    # List of every paths watched by brunch.
+    watched: ['app', 'styles']
 
   #--------------------------------------------------------------------------
   # Files
@@ -42,10 +42,6 @@ exports.config =
 
     javascripts:
 
-      joinTo:
-        'javascripts/app.js': /^(core|app)/
-        'javascripts/vendor.js': /^(vendor|bower_components)/
-
       order:
         before: []
         after: []
@@ -60,9 +56,6 @@ exports.config =
       order:
         before: []
         after: []
-
-    templates:
-      joinTo: 'javascripts/app.js'
 
   #--------------------------------------------------------------------------
   # Notifications
@@ -87,7 +80,7 @@ exports.config =
   #
   # @see https://github.com/brunch/brunch/blob/stable/docs/config.md#notificationstitle
   ##
-  notificationsTitle: 'Gotham'
+  notificationsTitle: 'Brunch'
 
 
   plugins:

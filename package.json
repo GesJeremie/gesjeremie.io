@@ -1,10 +1,24 @@
 {
-  "private": true,
-  "devDependencies": {
-    "gulp": "^3.8.8"
+  "name": "gesjeremie.io",
+  "description": "front-end folio gesjeremie.io",
+  "author": "Ges Jeremie",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "test": "brunch test"
   },
   "dependencies": {
-    "laravel-elixir": "^3.0.0",
-    "bootstrap-sass": "^3.0.0"
+    "auto-reload-brunch": ">= 1.0 < 1.8",
+    "clean-css-brunch": ">= 1.0 < 1.8",
+    "coffee-script-brunch": "^1.8.1",
+    "css-brunch": ">= 1.0 < 1.8",
+    "csstyle": "^1.5.0",
+    "eco-brunch": "^1.7.5",
+    "javascript-brunch": ">= 1.0 < 1.8",
+    "sass-brunch": "^1.9.1",
+    "uglify-js-brunch": ">= 1.0 < 1.8"
   }
 }
