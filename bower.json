@@ -1,9 +1,9 @@
 {
-    "name": "gesjeremie",
-    "version": "0.0.1",
-    "main": "",
-    "dependencies": {
-        "normalize-css": "normalize.css#~3.0.3"
-    },
-    "overrides": {}
+  "name": "gesjeremie",
+  "version": "0.0.1",
+  "main": "",
+  "dependencies": {
+    "reset-css": "^2.0.2011012603"
+  },
+  "overrides": {}
 }

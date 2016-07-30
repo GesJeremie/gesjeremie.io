@@ -1,19 +1,17 @@
-@include component(alert)
++component(alert)
   position: relative
   width: 100%
   padding: 20px
-  color: $color-shade-1
-  background-color: $color-yellow-light
+  color: darken($color-black, 10%)
+  background-color: lighten($color-yellow, 14%)
   vertical-align: middle
-  +border-radius(5px)
-  +font-lato(300)
+  border-radius: 5px
 
   @include option(with-icon)
     padding-left: 50px
-
     i
       position: absolute
-      color: $color-shade-1
+      color: darken($color-black, 10%)
       left: 20px
       top: 22px
 

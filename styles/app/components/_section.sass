@@ -1,55 +1,59 @@
-@include component(section)
-  padding-top: 4em
-  padding-bottom: 6em
++component(section)
   
-  @include option(grey)
-    background-color: $color-grey-light
+  +part(container)
+    padding-top: 4em
+    padding-bottom: 6em
+  
+    +option(grey)
+      background-color: lighten($color-grey, 12%)
 
-  @include part(title)
-    color: $color-shade-1
-    +font-montserrat
+  +part(title)
+    color: darken($color-black, 7%)
     text-transform: capitalize
     text-align: center
     padding-bottom: 1.6em
+    font-weight: bold
+    font-size: 2em
 
-  @include part(content)
+  +part(content)
     font-size: 18px
-    font-weight: 300
+    text-align: justify
 
-    @include option(experiences)
-      border-left: 2px solid $color-grey-light
+    strong
+      font-weight: bold
+
+    +option(experiences)
+      border-left: 2px solid lighten($color-grey, 12%)
       padding-left: 25px
       text-align: justify
 
-      @include gridle_state(xs)
+      +gridle_state(xs)
         padding-left: 0
         border: 0
 
-  @include part(company)
-    color: $color-shade-1
-    font-style: normal
+  +part(company)
+    color: $color-black
+    font-weight: bold
     font-size: 24px
-    +font-montserrat
 
-    @include gridle_state(xs)
+    +gridle_state(xs)
       text-align: center
 
-  @include part(role)
+  +part(role)
     font-style: normal
     font-size: 18px
-    +font-montserrat(400)
     margin-top: 0.2em
 
-    @include gridle_state(xs)
+    +gridle_state(xs)
       text-align: center
 
-  @include part(date)
+  +part(date)
     font-size: 17px
     font-style: normal
-    color: $color-yellow-reverse
+    color: $color-yellow
     margin-top: 1em
     margin-bottom: 2em
 
-    @include gridle_state(xs)
+    +gridle_state(xs)
       text-align: center
 
