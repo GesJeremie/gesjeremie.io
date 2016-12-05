@@ -20,7 +20,7 @@ exports.config =
   paths:
 
     # Path to build directory that would contain output.
-    public: 'public'
+    public: ''
 
     # List of every paths watched by brunch.
     watched: ['app', 'styles']
